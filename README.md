@@ -1,5 +1,3 @@
-# YuliyaBHomeWork
-my home work
 package Day1;
 
 import org.testng.annotations.Test;
